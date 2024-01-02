@@ -1,1 +1,1 @@
-# In this project, we are estimating the steady state of the number of available bikes at a Citi Bike station using Markov Chain. We chose three stations with
+# In this project, we are estimating the steady state of the number of available bikes at a Citi Bike station using Markov Chain. We chose three stations with the most bikes and estimate their stationary distribution by spliting the dataset into morning and evening block with a period of 10 minutes and model each individual Citi Bike station as a discrete Markov Chain.
